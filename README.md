@@ -16,17 +16,14 @@ Here are some ideas to get About Me:
 
 
 
-<a>
-  <img align="center" width="85%"  src="https://github-readme-stats.vercel.app/api?username=iamfip&count_private=true&theme=blue-green&&show_icons=true"> 
+<a style="width:80%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfip&count_private=true&theme=blue-green&&show_icons=true"> 
+</a>
+<a style="width:80%">
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamfip&theme=blue-green&hide_border=true&show_icons=true">
  
 </a>
- 
 
-<a>
-  <img align="center" width="85%" src="http://github-readme-streak-stats.herokuapp.com?user=iamfip&theme=blue-green&hide_border=true&show_icons=true">
-</a>
-
-<a> <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfip"> </a>
 
 
 
